@@ -1,4 +1,4 @@
-**Detectron is deprecated. Please see [detectron2](https://github.com/facebookresearch/detectron2), a ground-up rewrite of Detectron in PyTorch.**
+ *Detectron is deprecated. Please see [detectron2](https://github.com/facebookresearch/detectron2), a ground-up rewrite of Detectron in PyTorch.**
 
 # Detectron
 
@@ -115,3 +115,4 @@ If bugs are found, **we appreciate pull requests** (including adding Q&A's to `F
 - [Fast R-CNN](http://arxiv.org/abs/1504.08083).
   Ross Girshick.
   IEEE International Conference on Computer Vision (ICCV), 2015.
+ 
